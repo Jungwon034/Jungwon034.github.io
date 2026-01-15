@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Jungwon Heo's blog"
+title                    : "Jungwon Heo"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jungwon Heo"
@@ -116,10 +116,10 @@ author:
   name             : "Jungwon Heo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "floating point"
-  location         : "Yonsei Univ. Korea"
+  location         : "Yonsei Univ, Korea"
   email            :
   links:
-    - label: "Email"
+    - label: "Email jungwonheo@yonsei.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:jungwonheo@yonsei.ac.kr"
     - label: "Website"
